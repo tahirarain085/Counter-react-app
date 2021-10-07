@@ -18,6 +18,7 @@ const Counter = () => {
         }
     }
     return (
+        
         <div className="main_div">
             <div className="center_div">
                 <h1>{count}</h1>
